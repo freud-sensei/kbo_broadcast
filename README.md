@@ -1,4 +1,6 @@
 # baseball_broadcast
+완성된 홈페이지: https://huggingface.co/spaces/freud-sensei/kbo_broadcast
+
 2023년 KBO 리그 중계 통계 안내 웹사이트 제작
 * selenium을 이용한 KBO 홈페이지 크롤링
 * pandas를 이용한 팀별/방송사별 중계 통계 계산
